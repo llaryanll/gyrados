@@ -1,0 +1,4 @@
+{
+    "breastCancer" : "SVM",
+    "prostateCancer" : "Logistic Regression"
+}
